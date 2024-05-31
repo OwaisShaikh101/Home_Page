@@ -1,0 +1,22 @@
+*{
+	font-Family:'Josefin Sans',sans-serif;
+	Color: White;
+
+}
+body
+{
+background: rgb(16,207,192);
+background: linear-gradient(90deg, rgba(16,207,192,1) 0%, rgba(24,24,219,1) 54%, rgba(0,212,255,1) 100%);
+
+}
+
+
+.carousel-inner img{
+	width: 100%;
+	height: 90vh;
+}
+
+.gallim{
+	width:100%;
+	height: 350px!important;
+}
